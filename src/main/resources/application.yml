@@ -1,0 +1,5 @@
+spring:
+    application:
+      name: university-management-systemm
+server:
+  port: 8080
